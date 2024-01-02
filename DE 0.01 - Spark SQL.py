@@ -1,12 +1,4 @@
 # Databricks notebook source
-# MAGIC %md-sandbox
-# MAGIC
-# MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
-# MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning" style="width: 600px">
-# MAGIC </div>
-
-# COMMAND ----------
-
 # DBTITLE 0,--i18n-ad7af192-ab00-41a3-b683-5de4856cacb0
 # MAGIC %md
 # MAGIC # Spark SQL
